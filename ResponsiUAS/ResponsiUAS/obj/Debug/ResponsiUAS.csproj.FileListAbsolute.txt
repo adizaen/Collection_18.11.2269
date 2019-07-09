@@ -1,0 +1,7 @@
+D:\Kuliah\Semester 2\Pemrograman\Project\ResponsiUAS\ResponsiUAS\bin\Debug\ResponsiUAS.exe.config
+D:\Kuliah\Semester 2\Pemrograman\Project\ResponsiUAS\ResponsiUAS\bin\Debug\ResponsiUAS.exe
+D:\Kuliah\Semester 2\Pemrograman\Project\ResponsiUAS\ResponsiUAS\bin\Debug\ResponsiUAS.pdb
+D:\Kuliah\Semester 2\Pemrograman\Project\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\Project\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\Project\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.exe
+D:\Kuliah\Semester 2\Pemrograman\Project\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.pdb
